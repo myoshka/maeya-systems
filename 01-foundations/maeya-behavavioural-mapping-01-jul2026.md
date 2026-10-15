@@ -6,17 +6,15 @@
 
 **By Myoshka / 前屋**
 
-> Converted from the 12-page source PDF. Wording and historical claims are retained as authored.
-
 ## 1. MODEL OVERVIEW
-
-![Spiral of Behavioural Loop Healing](assets/maeya-behavioural-loop-spiral.png)
-
-*Spiral of Behavioural Loop Healing — original figure from page 2 of the source PDF.*
 
 ### Purpose
 
 Maeya – Behavioural Loop Mapping is a therapeutic framework designed to help individuals recognise, reflect on, and release trauma-driven behavioural patterns. It blends narrative memory, emotional pattern tracking, and AI-assisted reflection into a structured method for disrupting inherited or reactive cycles. This is not a replacement for therapy — it’s a companion method that supports self-understanding, stabilisation, and transformation, especially for those underserved by clinical systems.
+
+![Spiral of Behavioural Loop Healing](../assets/maeya-behavioural-loop-spiral.png)
+
+*Spiral of Behavioural Loop Healing — original figure from page 2 of the source PDF.*
 
 ### Origins
 
