@@ -2,7 +2,7 @@
 
 **Eight interactive design studies**, corresponding to the Hermes Data-Driven Visualisation Research Specification v2.0.
 
-[Open the interactive concept library](./maeya-dataViz-concept-library.html) (when hosted using GitHub Pages or viewed locally in a browser).
+[Open the interactive concept library](./maeya-dataviz-concept-library.html) (when hosted using GitHub Pages or viewed locally in a browser).
 
 | # | Concept | Evidence basis |
 |---|---|---|
